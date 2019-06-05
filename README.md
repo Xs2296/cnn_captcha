@@ -15,13 +15,14 @@ cnn训练验证码
 - test.py 测试脚本
 
 
-## 训练脚本
+## 安装依赖
 
-- 安装依赖
 - Python3.6
 - numpy
 - PIL
 - tensorflow
+
+## 训练脚本
 
 ```
 python train.py
